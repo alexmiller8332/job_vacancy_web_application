@@ -1,0 +1,46 @@
+.card{
+    width: 100%;
+  }
+  
+  button{
+    width: 100%;
+    background: none;
+    border: none;
+  }
+  
+  button:hover{
+    background-color: #d9d5d4;
+    cursor: pointer;
+  }
+  
+  .container{
+    width: 95%;
+    margin-left: 2.5%;
+  }
+  
+  .container input {
+    width: 95%;
+    padding: 20px;
+  }
+  
+  table {
+    width: 100%;
+  }
+  
+  .table80 {
+    width: 80%;
+    text-align: left;
+  }
+  
+  .table20 {
+    width: 20%;
+    text-align: right;
+  }
+  
+  .jobType {
+    color: green;
+  }
+  
+  .jobTitle {
+    color: blue;
+  }

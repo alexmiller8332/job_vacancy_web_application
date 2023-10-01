@@ -1,0 +1,26 @@
+.backBtn {
+    color: blue;
+    text-decoration: none;
+}
+
+.detailTitle {
+    font-weight: bold;
+}
+
+.table65 {
+    width: 65%;
+}
+
+.table35 {
+    width: 35%;
+    vertical-align: top;
+}
+
+.isiCard {
+    padding: 10px;
+}
+
+.card{
+    border: 5px solid #e8e4e3;
+    margin-top: 5px;
+}
